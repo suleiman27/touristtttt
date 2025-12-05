@@ -1,0 +1,13 @@
+[
+  {
+    "id": "mara-3-mid",
+    "title": "3-Day Masai Mara Safari — Mid-range",
+    "budget": "mid",
+    "days": 3,
+    "destination": "Masai Mara",
+    "highlights": ["Big 5", "Great Migration", "Game drives"],
+    "price": null,
+    "season": "Jul - Oct",
+    "image": "mara.jpg"
+  }
+]
